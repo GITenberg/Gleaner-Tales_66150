@@ -1,0 +1,28 @@
+_repo: Gleaner-Tales_66150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sellar, Robert
+    birthdate: 1841
+    deathdate: 1919
+    gutenberg_agent_id: '5988'
+    url: http://www.gutenberg.org/2009/agents/5988
+description: ''
+gutenberg_issued: '2021-08-27'
+identifiers:
+  gutenberg: '66150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Frontier and pioneer life -- Québec (Province) -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+tableOfContents: Hemlock -- Archange and Marie -- The settler's first grist -- Abner's
+  device -- A settler's story -- Jeanie Morison -- Lost -- An incident of Huntingdon
+  Fair -- The summer of sorrow -- Note to the summer of sorrow.
+title: Gleaner Tales
+url: http://www.gutenberg.org/ebooks/66150
